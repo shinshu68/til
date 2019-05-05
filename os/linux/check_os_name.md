@@ -1,0 +1,25 @@
+# OSの名前確認
+elementary OS Junoでの例
+
+```:bash
+$ cat /etc/issue
+elementary OS Juno \n \l
+
+$ cat /etc/issue.net
+elementary OS Juno
+
+$ cat /etc/os-release
+NAME="elementary OS"
+VERSION="5.0 Juno"
+ID=elementary
+ID_LIKE=ubuntu
+PRETTY_NAME="elementary OS 5.0 Juno"
+LOGO=distributor-logo
+VERSION_ID="5.0"
+HOME_URL="https://elementary.io/"
+SUPPORT_URL="https://elementary.io/support"
+BUG_REPORT_URL="https://github.com/elementary/appcenter/issues/new"
+PRIVACY_POLICY_URL="https://elementary.io/privacy-policy"
+VERSION_CODENAME=juno
+UBUNTU_CODENAME=bionic
+```
