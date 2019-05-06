@@ -1,4 +1,6 @@
 # 日本語化について
+
+## elementary OS の場合
 とりあえず  
 `$ sudo apt install fcitx fcitx-mozc --install-recommends`  
 `$ im-config`  
